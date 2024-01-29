@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+/* Style for the message when required parameters are not submitted */
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+/* Style for the greeting based on age condition */
+.greeting {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+/* Style for the days lived information */
+.days-lived {
+    font-style: italic;
+}
